@@ -25,7 +25,7 @@
 
 # 7. Activate the virtual environment
     - Run: source venv/bin/activate
-#    - Confirm activation by seeing (venv) in the terminal prompt
+    - Confirm activation by seeing (venv) in the terminal prompt
 
 # 8. Exclude the virtual environment from version control
     - Create a .gitignore file
